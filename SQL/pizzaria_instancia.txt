@@ -1,0 +1,24 @@
+insert into status (tipo) values ("Em produção");
+insert into status (tipo) values ("Em entrega");
+insert into status (tipo) values ("Concluído");
+
+insert into massas(tipo) values("Massa comum");
+insert into massas(tipo) values("Massa integral");
+insert into massas(tipo) values("Massa temperada");
+
+insert into bordas (tipo) values ("Cheddar");
+insert into bordas (tipo) values ("Catupiry");
+insert into bordas (tipo) values ("Tradicional");
+
+insert into sabores (nome) values ("Frango com queijo");
+insert into sabores (nome) values ("Calabresa");
+insert into sabores (nome) values ("Portuguesa");
+insert into sabores (nome) values ("4 queijos");
+insert into sabores (nome) values ("Misto");
+insert into sabores (nome) values ("Lombinho");
+insert into sabores (nome) values ("Carne de sol");
+insert into sabores (nome) values ("Frango com catupiry");
+insert into sabores (nome) values ("Marguerita");
+insert into sabores (nome) values ("Brasileira");
+insert into sabores (nome) values ("Vegetariana");
+insert into sabores (nome) values ("Pepperoni");
