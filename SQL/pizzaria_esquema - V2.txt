@@ -16,7 +16,7 @@ create table sabores (
 	nome varchar(45),
 	primary key(id));
 
-create pizzas (
+create table pizzas (
 	id int auto_increment not null,
 	borda_id int not null,
 	massa_id int not null,
