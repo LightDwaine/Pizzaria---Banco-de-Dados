@@ -35,7 +35,7 @@
 	// Validação de sabores máximos
 		if (count($sabores) > 3) {
 			
-			$_SESSION["msg"] = "Selecione no máximo 3 saboresQuery!";
+			$_SESSION["msg"] = "Selecione no máximo 3 sabores!";
 			$_SESSION["status"] = "warning";
 
 		} else {
